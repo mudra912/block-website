@@ -1,0 +1,14 @@
+
+While creating Python Website Blocker Application, we are going to use only one module – Tkinter 
+Module to make easy GUI using Python. We will be making two functions Block() and Unblock(). 
+As the names suggest these functions will perform blocking and unblocking of websites respectively. 
+These websites are added to the host file of the system.
+
+STEPS
+Importing the required library
+Creating GUI window
+Hostpath and IP address.
+Creating Block function to block websites
+Creating Unblock function to unblock websites
+Creating labels and buttons
+Main command
